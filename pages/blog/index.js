@@ -1,4 +1,4 @@
-import Head from 'next/Head'
+import Head from 'next/head'
 import styles from '../../styles/Blog.module.css'
 import BlogEntry from '../../components/BlogEntry'
 import { useContext, useEffect } from 'react'

@@ -2,7 +2,7 @@ import { useRouter } from 'next/router'
 import Context from '../../context'
 import { useContext, useEffect, useState } from 'react'
 import styles from '../../styles/BlogEntryPage.module.css'
-import Head from 'next/Head'
+import Head from 'next/head'
 import BlogImage from '../../components/BlogImage'
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
 
