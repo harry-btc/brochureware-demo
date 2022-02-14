@@ -1,0 +1,10 @@
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+}
+
+.heading {
+  font-size: 36px;
+  margin-bottom: 100px;
+  text-align: center;
+}
